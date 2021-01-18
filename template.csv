@@ -1,0 +1,5 @@
+Template Name,Amazon Machine Image (AMI)/Azure Image Name,Instance Type / Azure Size,Root Volume Size (GiB),Security Group Name / Azure Inbound Ports,Zone / Region
+AmazonLinux2,ami-0947d2ba12ee1ff75,t2.micro,12,cis4010-all,us-east-1
+UbuntuServer20.04LTS,ami-0dba2cb6798deb6d8,t2.micro,10,cis4010-all,us-east-1
+UbuntuServer18.04LTS,ami-0817d428a6fb68645,t2.micro,10,cis4010-all,us-east-1
+UbuntuServer16.04LTS,ami-0f82752aa17ff8f5d,t2.micro,10,cis4010-all,us-east-1

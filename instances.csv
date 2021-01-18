@@ -1,0 +1,5 @@
+Template Name,Instance/VM Name,ssh key / Azure Key pair name,Container Package Name
+AmazonLinux2,AL2-1,cis4010-all-a2.pem,conPac-1
+UbuntuServer20.04LTS,US-20-1,cis4010-all-a2.pem,conPac-1
+UbuntuServer18.04LTS,US-18-1,cis4010-all-a2.pem,conPac-2
+UbuntuServer16.04LTS,US-16-1,cis4010-all-a2.pem,conPac-3
